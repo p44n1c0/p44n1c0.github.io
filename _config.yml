@@ -1,6 +1,6 @@
 site: P44N1C0
 title: P44N1C0 - Independent Research
-description: >-
+description: >
   just a minimalist, personal blog
 keywords: Kevin Kusy, Security Researcher, Independent, Vulnerability Researcher, Pentester, Bug Bounty Hunter
 googlewebfonts: Fira+Code:wght@400;500;700
@@ -9,7 +9,6 @@ data-theme: dark # default theme "dark" | "light"
 
 author:
   name: p44n1c0
-  bio: just a minimalist, personal blog
   username: p44n1c0 # general username
   github: p44n1c0 # github username
   twitter: kevi0x6e # twitter username
