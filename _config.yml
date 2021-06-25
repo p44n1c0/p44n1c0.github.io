@@ -1,25 +1,24 @@
-site: Gesko
-title: Gesko
+site: P44N1C0
+title: P44N1C0 - Independent Research
 description: >-
   just a minimalist, personal blog
+keywords: Kevin Kusy, Security Researcher, Independent, Vulnerability Researcher, Pentester, Bug Bounty Hunter
 googlewebfonts: Fira+Code:wght@400;500;700
-lang: en-US
-timezone: Rome
-repo: https://github.com/p0wex/Gesko # site repo [optional]
+repo: https://github.com/p44n1c0/p44n1c0.github.io # site repo [optional]
 data-theme: dark # default theme "dark" | "light"
 
 author:
-  name: p0wex
+  name: p44n1c0
   bio: just a minimalist, personal blog
-  username: p0wex # general username
-  github: p0wex # github username
-  twitter: P0Wex # twitter username
-  email: your-email@email.com # email adress
+  username: p44n1c0 # general username
+  github: p44n1c0 # github username
+  twitter: kevi0x6e # twitter username
+  email: kevinnk16@gmail.com # email adress
 
 # URL settings
-url: "https://powex.ml" #
-baseurl: "/Gesko" # leave blank if not wishd
-permalink: "https://powex.ml/Gesko/"
+url: "https://p44n1c0.github.io" #
+baseurl: "" # leave blank if not wishd
+permalink: "p44n1c0.github.io"
 permalink: pretty 
 
 
@@ -27,7 +26,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
 
 exclude:
   - .jekyll-cache
